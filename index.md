@@ -59,7 +59,7 @@
 
 * [vinepy](https://github.com/davoclavo/vinepy) - 2013
 
-    - Out of passion for Vine, I made a Python library to connect to their private API.
+    - A Python library to connect to Vine private API.
     - Using it I managed to find and report some bugs on their API.
     - Used by companies such as BuzzFeed to track their Vine account metrics.
 
