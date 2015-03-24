@@ -1,15 +1,16 @@
-# David Gómez-Urquiza
+# David Gómez-Urquiza
 
-[![](https://img.shields.io/badge/email-d%40davo.io-green.svg?style=flat-square)](mailto:d@davo.io)
-[![](https://img.shields.io/badge/github-davoclavo-lightgrey.svg?style=flat-square)](http://github.com/davoclavo)
-[![](https://img.shields.io/badge/linkedin-davoclavo-blue.svg?style=flat-square)](http://linkedin.com/in/davoclavo)
+
+[![](images/email.svg)](mailto:d@davo.io)
+[![](images/github.svg)](http://github.com/davoclavo)
+[![](images/linkedin.svg)](http://linkedin.com/in/davoclavo)
 
 
 ## Work
 
 * **[Play Business](https://playbusiness.mx)** - Co-Founder/Lead Developer, 2014
 
-    - Equity crowdfunding equity platform for Mexican startups
+    - Equity crowdfunding platform for Mexican startups
     - Responsible for building the platform and other tasks, such as customer service and payment processing
     - Worked with Rails 4, Coffescript, SASS, HAML, and Postgres
 
@@ -73,18 +74,6 @@
     - *Built at [Startup Bus](http://startupbus.com/), picked as the crowd favorite project*
 
 
-## Skills
-
-* Programming languages
-    - Python, Ruby, JavaScript, Clojure
-* Frameworks
-    - Ruby on Rails, Flask, Django
-* Markup and design
-    - HTML5, CSS3, Markdown
-* Embedded systems
-    - Raspberry Pi, Arduino, PIC, Circuit design
-
-
 ## Education
 
 * **[Hacker School](http://hackerschool.com)**, *New York City, NY* - 2015
@@ -110,6 +99,18 @@
         - Built an Android app to send text messages using sound waves
         - Wrote a PID tuner using genetic algorithms
         - Created a web application to ease course enrollment
+
+
+## Skills
+
+* Programming languages
+    - Python, Ruby, JavaScript, Clojure
+* Frameworks
+    - Ruby on Rails, Flask, Django
+* Markup and design
+    - HTML5, CSS3, Markdown
+* Embedded systems
+    - Raspberry Pi, Arduino, PIC, Circuit design
 
 
 ## Languages
