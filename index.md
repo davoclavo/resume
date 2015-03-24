@@ -9,7 +9,7 @@
 
 * **[Play Business](https://playbusiness.mx)** - Co-Founder/Lead Developer, 2014
 
-    - Crowdsourced equity platform for Mexican startups
+    - Equity crowdfunding equity platform for Mexican startups
     - Responsible for building the platform and other tasks, such as customer service and payment processing
     - Worked with Rails 4, Coffescript, SASS, HAML, and Postgres
 
@@ -57,15 +57,17 @@
     - Used Rails for the front end and Python to intercept Tinder requests
     - *Built at [Art Hack Day: Deluge](http://www.arthackday.net/events/deluge)*
  -->
+
+
 * [vinepy](https://github.com/davoclavo/vinepy) - 2013
 
     - A Python library to connect to Vine private API
     - Using it I managed to find and report some bugs on their API
     - Used by companies such as BuzzFeed to track their Vine account metrics
 
+
 * [Cloudspotting](http://cloudspotting.co) - 2013
 
-    
     - Cloudspotting lets you draw on clouds, finally being able to conceptualize those animals that you have always seen
     - Used JavaScript/Canvas and Firebase
     - *Built at [Startup Bus](http://startupbus.com/), picked as the crowd favorite project*
@@ -92,6 +94,7 @@
         - Made a bathroom stall status server. Connected clients such as wifi enabled lightbulbs indicator
         - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Package Deployment, CI, and Coveralls
 
+
 * **[Tec de Monterrey, Campus Santa Fe](http://www.csf.itesm.mx/)**, *Mexico City, Mexico* - 2007 - 2012
 
    * **Electrical and Telecommunications Engineering**
@@ -99,6 +102,7 @@
         - Modded a barcode scanner to use it as a linear camera for a line following robot
         - Made an RFID card payment system for buses in Mexico City
         - Built a laser projector with a drawing interface
+
 
 * **[Korea Advanced Institute of Science and Technology](https://www.ee.kaist.ac.kr/eng/main.do)**, *Daejeon, South Korea* - 2011
 
