@@ -9,8 +9,9 @@
 
 * **[Play Business](https://playbusiness.mx)** - Co-Founder/Lead Developer, 2014
 
-    - Crowdequity platform for Mexican entrepreneurs.
-    - Responsible for building the platform, then managing all tasks, from customer service to application development, and everything in between.
+    - Crowdequity platform for Mexican entrepreneurs;
+    - Responsible for building the platform;
+    - Dealt with several other tasks, ranging from application development to dealing with customers;
     - Worked with Rails 4, Coffescript, SASS, HAML, and Postgres.
 
 
@@ -18,7 +19,7 @@
 
     - Platform for real estate businesses to manage their property listings.
     - My main priority was fixing bugs and adding interface features.
-    - Used with Rails 2 and 3, JavaScript, SASS, HAML, Postgres, and ElasticSearch.
+    - Worked with Rails 2 and 3, JavaScript, SASS, HAML, Postgres, and ElasticSearch.
 
 
 * **[Zode64](http://zode64.com)** - Junior Developer, 2012 - 2013
@@ -47,7 +48,7 @@
 * [drowning.technology](http://drowning.technology) - 2015
 
     - VR game where users drown each other with popular search trends.
-    - Created the game show interface, connecting APIs and sending commands to the Oculus Rift terminals.
+    - Created the game interface, which connected the APIs and the Oculus Rift terminals.
     - Used Python and Google Trends API
     - *Built at [Art Hack Day: Deluge](http://www.arthackday.net/events/deluge)*
 
@@ -65,8 +66,9 @@
 
 * [Cloudspotting](http://cloudspotting.co) - 2013
 
-    - Concepted and developed a drawing tool.
+    
     - Cloudspotting lets you draw on clouds, finally being able to conceptualize those animals that you have always seen.
+    - Concepted and developed the drawing tool.
     - Used JavaScript/Canvas and Firebase
     - *Built at [Startup Bus](http://startupbus.com/), picked as the crowd favorite project*
 
@@ -91,6 +93,7 @@
         - Wrote a Clojure library wrapper for Coursera private API.
         - Made a bathroom stall status server. Connected clients such as wifi enabled lightbulbs indicator.
         - Created a tiny library for a workshop about Package Deployment, CI, and Coveralls
+        - GH links?
 
 * **[Tec de Monterrey, Campus Santa Fe](http://www.csf.itesm.mx/)**, *Mexico City, Mexico* - 2007 - 2012
 
