@@ -8,48 +8,40 @@
 
 ## Work
 
-* **[Play Business](https://playbusiness.mx)** - Co-Founder/Lead Developer, 2014
+* **[Play Business](https://playbusiness.mx)** - Cofounder/Lead Developer, 2014
 
     - Equity crowdfunding platform for Mexican startups
-    - Responsible for building the platform and other tasks, such as customer service and payment processing
+    - Responsible for building the platform, payment processing and customer service
     - Worked with Rails 4, Coffescript, SASS, HAML, and Postgres
 
 
-* **[Easy Broker](http://www.easybroker.com)** - Junior Developer, 2013
+* **[Easy Broker](http://www.easybroker.com)** - Developer, 2013
 
     - Platform for real estate businesses to manage their property listings
-    - My main priority was fixing bugs and adding interface features
+    - Developed features like, in-mail system for the product and a activity feeds.
     - Worked with Rails 2 and 3, JavaScript, SASS, HAML, Postgres, and ElasticSearch
 
 
-* **[Zode64](http://zode64.com)** - Junior Developer, 2012 - 2013
+* **[Zode64](http://zode64.com)** - Developer, 2012 - 2013
 
-    - Software company, with clients ranging from individuals to government
-    - As the first employee, I did full stack development on two large projects
-        + Focused on user targeted features, such as a product scraping tool, which fetched information from a wide variety of websites
-        + Reengineered a government system. I was responsible for talking with the users and tailoring the interface. Optimized a repetitive administrative task from 8 minutes to 2 minutes
+    - Software consulting company, with clients ranging from individuals to government agencies
+    - As the first employee, I was reasponsible for re-engineering a large govt. application that optimized administrative tasks form 8min to 2min
+    - I built user facing features, like a product scraping tool, which fetched information from a wide variety of websites
     - Worked with Rails 3, JavaScript, HTML Media Capture, Postgres and IndexTank
 
-
-<!-- * **[Huawei](http://www.huawei.com/)** - Developer Intern, 2011 - 2012
-
-    - Helped develop a project using PHP and several applications using JavaScript and HTML5.
- -->
-
-* **[Fractal Media](http://fractal.ai)** - Junior Developer, 2011 - 2012
+* **[Fractal Media](http://fractal.ai)** - Developer, 2011 - 2012
 
     - Developed a Google Analytics campaign visualization tool using Processing
     - Built an ad crawler using phantom.js
     - Created an internal web platform used for ad tagging in Django
-
 
 ## Projects
 
 * [drowning.technology](http://drowning.technology) - 2015
 
     - VR game where users drown each other with popular search trends
-    - Created the game interface, which connected the APIs and the Oculus Rift terminals
-    - Used Python and Google Trends API
+    - Created the gameshow interface, which connected the APIs and the Oculus Rift terminals
+    - Used Python, Google Trends API and OSC
     - *Built at [Art Hack Day: Deluge](http://www.arthackday.net/events/deluge)*
 
 <!-- * Unsuitable Suitors ([only displayed at the exhibit](http://static1.squarespace.com/static/5093f3b5e4b05d6afda35e71/54d17a68e4b026f68f1ab2b5/54d18938e4b052944b12e37a/1423018303312/15_01_AHD_131.jpg?format=1500w)) - 2015
@@ -76,12 +68,12 @@
 
 ## Education
 
-* **[Hacker School](http://hackerschool.com)**, *New York City, NY* - 2015
+* **[Recurse Center](http://recurse.com)**, *New York City, NY* - 2015
 
-   * **3 month long retreat for programmers**
+   * **3 month retreat for programmers**
         - Wrote a [Clojure library](https://github.com/davoclavo/courjera) wrapper for Coursera private API
         - Made a bathroom stall status server. Connected clients such as wifi enabled lightbulbs indicator
-        - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Package Deployment, CI, and Coveralls
+        - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Package Deployment, CI, and Coverage reports
 
 
 * **[Tec de Monterrey, Campus Santa Fe](http://www.csf.itesm.mx/)**, *Mexico City, Mexico* - 2007 - 2012
@@ -111,10 +103,9 @@
     - HTML5, CSS3, Markdown
 * Embedded systems
     - Raspberry Pi, Arduino, PIC, Circuit design
+* Natural languages
+    - Spanish, English, Korean
 
+---
 
-## Languages
-
-* **Spanish** (Native proficiency)
-* **English** (Full professional proficiency)
-* **Korean** (Elementary proficiency)
+### [Say hi!](mailto:d@davo.io)

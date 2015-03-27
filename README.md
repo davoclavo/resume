@@ -16,3 +16,16 @@ PDF
 gem install gimli
 gimli -file index.md
 ~~~
+
+
+Makefile
+--------
+
+~~~
+make render-pdf
+make render-html
+
+#or
+
+make render
+~~~
