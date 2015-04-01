@@ -25,7 +25,7 @@
 * **[Zode64](http://zode64.com)** - Developer, 2012 - 2013
 
     - Software consulting company, with clients ranging from individuals to government agencies
-    - As the first employee, I was reasponsible for re-engineering a large govt. application that optimized administrative tasks form 8min to 2min
+    - As the first employee, I was responsible for re-engineering a large govt. application that optimized administrative tasks form 8min to 2min
     - I built user facing features, like a product scraping tool, which fetched information from a wide variety of websites
     - Worked with Rails 3, JavaScript, HTML Media Capture, Postgres and IndexTank
 
@@ -72,7 +72,7 @@
 
    * **3 month retreat for programmers**
         - Wrote a [Clojure library](https://github.com/davoclavo/courjera) wrapper for Coursera private API
-        - Made a bathroom stall status server. Connected clients such as wifi enabled lightbulbs indicator
+        - Made a bathroom stall status server. Connected clients such as wifi enabled light bulbs indicator
         - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Package Deployment, CI, and Coverage reports
 
 
