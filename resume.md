@@ -18,14 +18,14 @@
 * **[Easy Broker](http://www.easybroker.com)** - Developer, 2013
 
     - Platform for real estate businesses to manage their property listings
-    - Developed features like, in-mail system for the product and a activity feeds.
+    - Developed features like, in-mail system for the product and activity feeds.
     - Worked with Rails 2 and 3, JavaScript, SASS, HAML, Postgres, and ElasticSearch
 
 
 * **[Zode64](http://zode64.com)** - Developer, 2012 - 2013
 
     - Software consulting company, with clients ranging from individuals to government agencies
-    - As the first employee, I was responsible for re-engineering a large govt. application that optimized administrative tasks form 8min to 2min
+    - As the first employee, I was responsible for re-engineering a large govt. application that optimized administrative tasks from 8min to 2min
     - I built user facing features, like a product scraping tool, which fetched information from a wide variety of websites
     - Worked with Rails 3, JavaScript, HTML Media Capture, Postgres and IndexTank
 
