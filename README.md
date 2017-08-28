@@ -13,8 +13,8 @@ PDF
 ---
 
 ~~~
-gem install gimli
-gimli -file index.md
+sudo gem install wkhtmltopdf-binary
+wkhtmltopdf resume.md resume.pdf
 ~~~
 
 
@@ -22,10 +22,5 @@ Makefile
 --------
 
 ~~~
-make render-pdf
-make render-html
-
-#or
-
 make render
 ~~~

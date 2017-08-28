@@ -4,7 +4,7 @@ help:
 	@echo "render - render everything"
 
 render-pdf:
-	gimli -file resume.md
+	wkhtmltopdf index.html resume.pdf
 
 render-html:
 	generate-md --layout github --input resume.md --output .

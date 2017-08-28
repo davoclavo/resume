@@ -8,6 +8,15 @@
 
 ## Work
 
+
+* **[IFTTT](https://ifttt.com)** - Software Engineer, 2015 - current
+
+    - Platform to automate tasks across APIs, IoT devices, and data feeds. 
+    - Implement, monitor and debug traffic across several APIs
+    - Perform data and authentication migrations for millions of users.
+    - Work with Ruby, Scala, Docker, Redis, MySQL
+
+
 * **[Play Business](https://playbusiness.mx)** - Cofounder/Lead Developer, 2014
 
     - Equity crowdfunding platform for Mexican startups
@@ -29,6 +38,7 @@
     - I built user facing features, like a product scraping tool, which fetched information from a wide variety of websites
     - Worked with Rails 3, JavaScript, HTML Media Capture, Postgres and IndexTank
 
+
 * **[Fractal Media](http://fractal.ai)** - Developer, 2011 - 2012
 
     - Developed a Google Analytics campaign visualization tool using Processing
@@ -37,7 +47,7 @@
 
 ## Projects
 
-* [drowning.technology](http://drowning.technology) - 2015
+* [drowning.technology](http://amjctv.tumblr.com/post/109893384697/drowning) - 2015
 
     - VR game where users drown each other with popular search trends
     - Created the gameshow interface, which connected the APIs and the Oculus Rift terminals
@@ -54,16 +64,16 @@
 
 * [vinepy](https://github.com/davoclavo/vinepy) - 2013
 
-    - A Python library to connect to Vine private API
+    - A Python library to connect to Vine's private API (RIP)
     - Using it I managed to find and report some bugs on their API
     - Used by companies such as BuzzFeed to track their Vine account metrics
 
 
-* [Cloudspotting](http://cloudspotting.co) - 2013
+* [Cloudspotting](http://cloudspotting.github.io/) - 2013
 
     - Cloudspotting lets you draw on clouds, finally being able to conceptualize those animals that you have always seen
     - Used JavaScript/Canvas and Firebase
-    - *Built at [Startup Bus](http://startupbus.com/), picked as the crowd favorite project*
+    - *Picked as [crowd favorite project at Startup Bus](http://articles.bplans.com/startupbus-round-2-part-2-mexico-storms-san-antonio-steals-startupbus-show-post-6/)*
 
 
 ## Education
@@ -71,18 +81,18 @@
 * **[Recurse Center](http://recurse.com)**, *New York City, NY* - 2015
 
    * **3 month retreat for programmers**
-        - Wrote a [Clojure library](https://github.com/davoclavo/courjera) wrapper for Coursera private API
-        - Made a bathroom stall status server. Connected clients such as wifi enabled light bulbs indicator
-        - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Package Deployment, CI, and Coverage reports
+        - Wrote a [Clojure library](https://github.com/davoclavo/courjera) wrapper for Coursera's private API
+        - Made a bathroom stall status notifier, using Raspberry Pi with Docker and Hue lightbulbs.
+        - Created a [tiny library](https://github.com/davoclavo/passplz) for a workshop about Python package deployment, CI, and test coverage reports
 
 
 * **[Tec de Monterrey, Campus Santa Fe](http://www.csf.itesm.mx/)**, *Mexico City, Mexico* - 2007 - 2012
 
    * **Electrical and Telecommunications Engineering**
-        - Created a platform accompanied with a device to ease grocery shopping by scanning products before trashing them and automatically creating grocery lists
+        - Created a [website and hardware device](https://github.com/buzali/SuperListas) to ease grocery shopping by scanning products before trashing them and automatically creating grocery lists.
         - Modded a barcode scanner to use it as a linear camera for a line following robot
-        - Made an RFID card payment system for buses in Mexico City
-        - Built a laser projector with a drawing interface
+        - Made an RFID card payment system for buses
+        - Built a laser scanner projector with a drawing interface
 
 
 * **[Korea Advanced Institute of Science and Technology](https://www.ee.kaist.ac.kr/eng/main.do)**, *Daejeon, South Korea* - 2011
@@ -96,9 +106,9 @@
 ## Skills
 
 * Programming languages
-    - Python, Ruby, JavaScript, Clojure
+    - Python, Ruby, Javascript, Scala, Elm, Elixir, C++, Clojure
 * Frameworks
-    - Ruby on Rails, Flask, Django
+    - Ruby on Rails, Finagle, Django, Flask, Phoenix, React
 * Markup and design
     - HTML5, CSS3, Markdown
 * Embedded systems
