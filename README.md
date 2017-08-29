@@ -14,7 +14,7 @@ PDF
 
 ~~~
 sudo gem install wkhtmltopdf-binary
-wkhtmltopdf resume.md resume.pdf
+wkhtmltopdf resume.html resume.pdf
 ~~~
 
 
